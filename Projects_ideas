@@ -1,0 +1,34 @@
+Project#1
+``````````
+Problem Details: Email Spoofing Detection: Identify and flag emails with misleading sender information (spoofing)
+Description:
+
+Email spoofing is a form of cyber attack in which a hacker sends an email that has been manipulated to seem as if it originated from a trusted source.
+This kind of identity deception is widely used in phishing and spam attacks to help boost the open rate and efficacy of malicious emails.
+In many email attacks, embedded links lead to phishing sites designed to swipe sensitive information or login credentials from recipients.
+Others contain malware-laden attachments, or employ social engineering to bamboozle well-researched targets out of money in spear-phishing or business email compromise (BEC) scams.
+In order to spoof an email, all a fraudster needs to do is set up or compromise an SMTP server.
+From there, they can manipulate the 'From', 'Reply-To', and 'Return-Path' email addresses to make their phishing emails appear to be legitimate messages from the individual or brand they're impersonating.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Project#2
+``````````
+Problem Details: Fake News Detection System: Analyze news to detect potentially false or misleading information.
+Description:
+
+Design and develop a technological solution/software tool for Tracking & Tracing Fake News and its origin using official sources as the input filter.
+The solution should have a mechanism to mitigate the impact of the spread of Fake News by auto-populating the fake news spreaders' inboxes with the official/authenticated news content.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Project#3
+``````````
+Problem Details: Phishing Detection Solution: Detect malicious attempts to steal sensitive user information.
+Description:
+
+Design and develop a technological solution for AI-enabled Phishing Links Detection and Alert System.
+The solution should be able to identify the source of phishing attacks in web pages, email apps, social media, instant messenger apps, text messages etc.
+The solution may be in the form of a desktop/mobile application or a web browser plugin.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Project#4
+``````````
+
+
+
